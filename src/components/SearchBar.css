@@ -1,0 +1,45 @@
+/* Frame 1 */
+
+
+/* Auto layout */
+
+
+.text-search {display: flex;
+flex-direction: row;
+align-items: center;
+padding: 8px 0px 8px 40px;
+
+position: static;
+width: 360px;
+height: 43px;
+left: 0px;
+top: 31px;
+
+background: url('../assets/search_icon.svg') no-repeat; 
+background-position: left 14px top 8px;
+
+/* grey-40 */
+
+border: 1px solid #666464;
+box-sizing: border-box;
+
+/* Inside auto layout */
+
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+margin: 9px 0px;
+}
+
+.search-icon {
+    position: absolute;
+    left: 20.83%;
+    right: 29.17%;
+    top: 20.83%;
+    bottom: 29.17%;
+
+    /* grey-20 */
+
+    border: 1px solid #333232;
+}
