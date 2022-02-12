@@ -14,7 +14,7 @@ function SearchBar() {
 
     return (
         <div>
-            <input type="search" class="text-search" onChange={handleChange}></input>
+            <input type="search" className="text-search" onChange={handleChange}></input>
 
         </div>
     );

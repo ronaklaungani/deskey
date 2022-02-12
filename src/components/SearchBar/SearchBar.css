@@ -15,7 +15,7 @@ height: 43px;
 left: 0px;
 top: 31px;
 
-background: url('../assets/search_icon.svg') no-repeat; 
+background: url('../../assets/search_icon.svg') no-repeat; 
 background-position: left 14px top 8px;
 
 /* grey-40 */
